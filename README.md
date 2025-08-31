@@ -1,2 +1,3 @@
 # Anushka-Demo
-This is my first git repository
+This is my First Git Repository!
+Creator - Anushka Bhardwaj
